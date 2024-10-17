@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\admin\\newsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\admin\\newsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\areas\\writer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\areas\\writer\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\areas\\writer\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\areas\\writer\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\areas\\writer\\views\\default\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\areas\\writer\\views\\default\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\shared\\_newadminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\shared\\_newadminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\shared\\components\\socialmedialist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\shared\\components\\socialmedialist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\shared\\components\\featurelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\shared\\components\\featurelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\default\\navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\default\\navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\default\\headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\default\\headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\wwwroot\\argon-dashboard-master\\examples\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\wwwroot\\argon-dashboard-master\\examples\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\shared\\components\\contactdetails\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\shared\\components\\contactdetails\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCD5BE1-0018-46FF-82FC-2237FAF8F4BA}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\businesslayer\\concrete\\writerusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCD5BE1-0018-46FF-82FC-2237FAF8F4BA}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\writerusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\shared\\components\\sendmessage\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\shared\\components\\sendmessage\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\writeruser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\writeruser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\controllers\\writerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\controllers\\writerusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCD5BE1-0018-46FF-82FC-2237FAF8F4BA}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\businesslayer\\abstract\\iwriteruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCD5BE1-0018-46FF-82FC-2237FAF8F4BA}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iwriteruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C315F-7050-4828-85EC-45BE5109EC7F}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\dataaccesslayer\\entityframework\\efwriteruserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C315F-7050-4828-85EC-45BE5109EC7F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efwriteruserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6C315F-7050-4828-85EC-45BE5109EC7F}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\dataaccesslayer\\abstract\\iwriteruserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6C315F-7050-4828-85EC-45BE5109EC7F}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\iwriteruserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|c:\\users\\abdur\\source\\repos\\udemym1\\udemym1\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B56ECC7-6ED1-42F1-8E58-36CB7EC41531}|UdemyM1\\UdemyM1.csproj|solutionrelative:udemym1\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\SocialMediaList\\Default.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Shared\\Components\\SocialMediaList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\SocialMediaList\\Default.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Shared\\Components\\SocialMediaList\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:52:43.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Admin\\NewSideBar.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Admin\\NewSideBar.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Admin\\NewSideBar.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Admin\\NewSideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:40:22.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UdemyM1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UdemyM1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:40:07.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Areas\\Writer\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Areas\\Writer\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Areas\\Writer\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "UdemyM1\\Areas\\Writer\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:40:05.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Areas\\Writer\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Areas\\Writer\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Areas\\Writer\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "UdemyM1\\Areas\\Writer\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:40:02.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeadPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Areas\\Writer\\Views\\Default\\HeadPartial.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Areas\\Writer\\Views\\Default\\HeadPartial.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Areas\\Writer\\Views\\Default\\HeadPartial.cshtml",
+              "RelativeToolTip": "UdemyM1\\Areas\\Writer\\Views\\Default\\HeadPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:39:59.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\NavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Default\\NavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\NavbarPartial.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Default\\NavbarPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:00:41.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\wwwroot\\argon-dashboard-master\\examples\\register.html",
+              "RelativeDocumentMoniker": "UdemyM1\\wwwroot\\argon-dashboard-master\\examples\\register.html",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\wwwroot\\argon-dashboard-master\\examples\\register.html",
+              "RelativeToolTip": "UdemyM1\\wwwroot\\argon-dashboard-master\\examples\\register.html",
+              "ViewState": "AgIAAE4AAAAAAAAAAIAwwF8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-17T07:59:19.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SendMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\SendMessage.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Default\\SendMessage.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\SendMessage.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Default\\SendMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:47:57.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\ContactDetails\\Default.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Shared\\Components\\ContactDetails\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\ContactDetails\\Default.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Shared\\Components\\ContactDetails\\Default.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:43:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\SendMessage\\Default.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Shared\\Components\\SendMessage\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\SendMessage\\Default.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Shared\\Components\\SendMessage\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:41:49.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\WriterUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\WriterUser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\WriterUser\\Index.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\WriterUser\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:20:18.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Default\\HeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\HeaderPartial.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Default\\HeaderPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:59:08.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_NewAdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\_NewAdminLayout.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Shared\\_NewAdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\_NewAdminLayout.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Shared\\_NewAdminLayout.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAArwGwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T07:26:01.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\FeatureList\\Default.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Shared\\Components\\FeatureList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Shared\\Components\\FeatureList\\Default.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Shared\\Components\\FeatureList\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:01:46.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:59:58.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WriterUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\BusinessLayer\\Concrete\\WriterUserManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\WriterUserManager.cs",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\BusinessLayer\\Concrete\\WriterUserManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\WriterUserManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAhwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:18:14.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WriterUserController.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Controllers\\WriterUserController.cs",
+              "RelativeDocumentMoniker": "UdemyM1\\Controllers\\WriterUserController.cs",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Controllers\\WriterUserController.cs",
+              "RelativeToolTip": "UdemyM1\\Controllers\\WriterUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:14:48.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWriterUserService.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\BusinessLayer\\Abstract\\IWriterUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IWriterUserService.cs",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\BusinessLayer\\Abstract\\IWriterUserService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IWriterUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:16:15.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EFWriterUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\DataAccessLayer\\EntityFramework\\EFWriterUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EFWriterUserDal.cs",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\DataAccessLayer\\EntityFramework\\EFWriterUserDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EFWriterUserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:16:46.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IWriterUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\DataAccessLayer\\Abstract\\IWriterUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IWriterUserDal.cs",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\DataAccessLayer\\Abstract\\IWriterUserDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IWriterUserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:17:10.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Feature\\Index.cshtml",
+              "RelativeDocumentMoniker": "UdemyM1\\Views\\Feature\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdur\\source\\repos\\UdemyM1\\UdemyM1\\Views\\Feature\\Index.cshtml",
+              "RelativeToolTip": "UdemyM1\\Views\\Feature\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:54:15.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
